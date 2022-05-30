@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "queries",
+  "info": {
+    "singularName": "query",
+    "pluralName": "queries",
+    "displayName": "query"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "firstname": {
+      "type": "string"
+    }
+  }
+}
